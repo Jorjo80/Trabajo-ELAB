@@ -1,0 +1,17 @@
+.RK1631110TWA :1 ;Carbon Film Potentiometer RK163 Series with a 6 mm Dia. Shaft 10k 20% 0.1W
+RK1631110TWA
+*STM VR
+*NGS
+*PLB 1="1" 2="2" 3="3"
+*MXP 3
+*DFN RK1631110TWA
+~!Manufacturer_Name (ALPS)
+~!Manufacturer_Part_Number (RK1631110TWA)
+~!RS Part Number (1726361)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/1726361)
+~!Arrow Part Number (RK1631110TWA)
+~!Link Arrow Price/Stock (http://uk.rs-online.com/web/p/products/1726361)
+~!Link Datasheet (http://docs-europe.electrocomponents.com/webdocs/135d/0900766b8135daa5.pdf)
+~!Height (-)
+RK1631110TWA
+1.1!U 2.1!U 3.1!U 

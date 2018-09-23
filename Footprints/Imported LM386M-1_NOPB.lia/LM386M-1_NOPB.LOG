@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : LM386M-1_NOPB.LibPkg
+
+Section : C:\Users\Jorjo80\Downloads\Trabajo ELAB\Footprints\LM386M-1_NOPB.lia
+    Section : PCB Library - LM386M-1_NOPB.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LM386M-1/NOPB On Line 115
+            Warning - 1 : Skipping Token attachedSymbol On Line 222
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LM386M-1_NOPB.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 105
+        EndSection
+
+        Section : Generating SCH Library - LM386M-1_NOPB.SchLib
+        EndSection
+    EndSection
+EndSection

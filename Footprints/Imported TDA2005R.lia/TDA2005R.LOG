@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : TDA2005R.LibPkg
+
+Section : C:\Users\Jorjo80\Downloads\Trabajo ELAB\Footprints\TDA2005R.lia
+    Section : PCB Library - TDA2005R.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token TDA2005R On Line 134
+            Warning - 1 : Skipping Token attachedSymbol On Line 271
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TDA2005R.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 127
+        EndSection
+
+        Section : Generating SCH Library - TDA2005R.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RK1631110TWA"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RK1631110TWA")
+        (spec "default")
+    )
+)
