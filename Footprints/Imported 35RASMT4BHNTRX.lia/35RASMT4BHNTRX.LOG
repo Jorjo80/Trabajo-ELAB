@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 35RASMT4BHNTRX.LibPkg
+
+Section : H:\Jorge\UPM\master\ELAB\Trabajo ELAB\Footprints\35RASMT4BHNTRX.lia
+    Section : PCB Library - 35RASMT4BHNTRX.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 35RASMT4BHNTRX On Line 151
+            Warning - 1 : Skipping Token attachedSymbol On Line 248
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 35RASMT4BHNTRX.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token padStyleDef On Line 57
+            Warning - 1 : Skipping Token multiLayer On Line 131
+            Warning - 1 : Skipping Token layerContents On Line 140
+        EndSection
+
+        Section : Generating SCH Library - 35RASMT4BHNTRX.SchLib
+        EndSection
+    EndSection
+EndSection
