@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=R7 NewDesignator=V1
+Change Component Designator: OldDesignator=R8 NewDesignator=G1
+Change Component Designator: OldDesignator=R9 NewDesignator=V2
+Change Component Designator: OldDesignator=R10 NewDesignator=G2
+Change Net Name : Old Net Name=NetR7_3 New Net Name=NetU1_3
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetG1_2
+Change Net Name : Old Net Name=NetR9_3 New Net Name=NetU2_3
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetG2_2
