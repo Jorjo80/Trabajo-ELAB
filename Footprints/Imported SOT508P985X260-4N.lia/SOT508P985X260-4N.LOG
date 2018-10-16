@@ -1,0 +1,20 @@
+PCAD Importer Log
+Project : SOT508P985X260-4N.LibPkg
+
+Section : H:\Jorge\UPM\master\ELAB\Trabajo ELAB\Footprints\DF01S2\SOT508P985X260-4N.lia
+    Section : PCB Library - SOT508P985X260-4N.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 114
+            Warning - 1 : Skipping Token isVisible On Line 115
+            Warning - 1 : Skipping Token isVisible On Line 116
+            Warning - 1 : Skipping Token isVisible On Line 117
+            Warning - 1 : Skipping Token isVisible On Line 131
+            Warning - 1 : Skipping Token isVisible On Line 132
+            Warning - 1 : Skipping Token isVisible On Line 133
+            Warning - 1 : Skipping Token isVisible On Line 134
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+EndSection
