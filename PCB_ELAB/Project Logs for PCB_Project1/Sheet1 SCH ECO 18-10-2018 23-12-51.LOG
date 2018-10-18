@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C6 Old Footprint=C1210 New Footprint=C0805
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=SMD-0805-RES
+Change Component Comment: Designator=D4 Old Comment==PN New Comment=LED3
+Change Component Comment: Designator=D5 Old Comment==PN New Comment=LED3
