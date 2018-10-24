@@ -56,3 +56,14 @@
 [1014/151019:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [1017/205929:ERROR:ipc_channel_win.cc(217)] pipe error: 109
 [1017/221039:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1024/222046:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1024/222051:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1024/222056:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1024/222119:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1024/222124:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1024/222129:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1024/222134:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1024/222139:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1024/222144:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1024/222149:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[1024/222151:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
