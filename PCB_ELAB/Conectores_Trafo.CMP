@@ -1,0 +1,15 @@
+Component   : PCBComponent_1 - duplicate
+PCB Library : Conectores_Trafo.PcbLib
+Date        : 24/10/2018
+Time        : 22:03:03
+
+
+
+Dimension : 0.609 x 0.21 in
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 3          0        0       0        0
+ Top Overlay                 0          6        0       0        0
+--------------------------------------------------------------------
+ Total                       3          6        0       0        0
