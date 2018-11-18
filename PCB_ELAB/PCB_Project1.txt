@@ -1,0 +1,21 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~38|Field=Description~String~Description~331|Field=Designator~String~Designator~54|Field=Footprint~String~Footprint~64|Field=Quantity~Integer~Quantity~23|Field=PN~String~PN~85|Field=Value~String~Value~73|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project1.PrjPCB|ReportField=ProjectFullPath~H:\Jorge\UPM\master\ELAB\Trabajo ELAB\PCB_ELAB\PCB_Project1.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Project1.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~13:03:22|ReportField=ReportDate~17/11/2018|ReportField=ReportDateTime~17/11/2018 13:03:22|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~39|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~392d0a5ccc40c76fc3b2417a5e2515cb090dfff8|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~17/11/2018|ReportField=CurrentTime~12:49:38|ReportField=Date~|ReportField=DocumentFullPathAndName~H:\Jorge\UPM\master\ELAB\Trabajo ELAB\PCB_ELAB\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~15/11/2018|ReportField=Organization~|ReportField=ProjectName~PCB_Project1.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project1.PrjPCB|ReportField=DataSourceFullPath~H:\Jorge\UPM\master\ELAB\Trabajo ELAB\PCB_ELAB\PCB_Project1.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C5, C6, C7, C10, C11, C12|C0805|7|VJ0805Y104KXQCW1BC, C0805C473K3RACTU, C0805X106J8RACAUTO|100n, 47nF, 10uF
+2|Cap Semi|Capacitor (Semiconductor SIM Model)|C2, C4, C8|C1206|3|C1206C224KARACAUTO, TDK CGA5L1X8L1C106K160AC|220nF, 10uF
+3|Cap Pol3|Polarized Capacitor (Surface Mount)|C3, C9|C0805|2|UKA1A221MED|220uF
+4|Cap Semi|Capacitor (Semiconductor SIM Model) C1608JB1V105K080AB, Capacitor (Semiconductor SIM Model) C0603T104J5RACTU, Capacitor (Semiconductor SIM Model) GRM188R6YA106MA73D|C13, C16, C17|1608[0603]|3|C1608JB1V105K080AB, C0603T104J5RACTU, GRM188R6YA106MA73D|1uF, 0.1uF, 10uF
+5|Cap Pol1|Polarized Capacitor (Radial) URS1V102MHD|C14, C15|RB7.6-15|2|URS1V102MHD|1000uF/35V
+6|S1BB-13-F|100V 1 Amp General Purpose Rectifier|D1, D2|DIOM505270X240|2|S1BB-13-F|
+7|LED3|Typical BLUE SiC LED IN-S85ATR|D3|6-0805_L|1|IN-S85ATR|
+8|RPot|Potentiometer|G1|Model Name|1|P160KNPD-0QC15A10K|10K
+9|RPot|Potentiometer|G2, V1, V2|PCBComponent_1 - duplicate|3|P160KNPD-0QC15A10K|10K
+10|35RASMT4BHNTRX|Conn 3.5MM Stereo Jack F 3 POS Solder RA SMD 5 Terminal 1 Port T/R|J1|SWITCHCRAFT_35RASMT4BHNTRX|1|35RASMT4BHNTRX|
+11|Header 3|Header, 3-Pin|J2|HDR1X3|1|112BX|
+12|Speaker|Loudspeaker|LS1, LS2|PIN2|2||
+13|External Trafo Used|Header, 2-Pin|P1|PCBComponent_1|1||
+14|Res3|Resistor|R1, R2|SMD-0805-RES|2|SR732ARTTD10R0F|10
+15|Res1|Resistor ERJ-PA3J102V|R3|J1-0603|1|ERJ-PA3J102V|1K
+16|Res3|Resistor ERJ-PA3J102V, Resistor ERJ-PA3J622V|R4, R5|J1-0603|2|ERJ-PA3J102V, ERJ-PA3J622V|1K, 6.2K
+17|Res3|Resistor|R6|6-0805_N|1|CRCW08050000Z0EAC|0
+18|LM386M-1/NOPB|Wide Input Voltage Low Power Audio Amplifier with Internal Gain 8-SOIC 0 to 70|U1, U2|SOIC127P600X175-8N|2|LM386M-1|
+19|DF01S2|DF01S Series 1.5 A 100 V 5 uA Surface Mount Bridge Rectifier -SDIP-4|U3|SOT508P985X260-4N|1||
+20|LM317T||U4|TO254P460X1020X1945-3P|1|LM317T|
