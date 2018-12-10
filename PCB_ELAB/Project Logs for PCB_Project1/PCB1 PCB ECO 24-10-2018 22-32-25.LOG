@@ -1,4 +1,0 @@
-Added Pin To Net: NetName=GND Pin=R1-1
-Change Net Name : Old Net Name=GND New Net Name=GND-ANA
-Added Room: Name=LM386
-Added Room: Name=Power_Supply
